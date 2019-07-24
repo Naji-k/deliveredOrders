@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Undelivered</string>
+    <string name="app_name">Omnipharma</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invoice_number">Invoice Number</string>
 </resources>
